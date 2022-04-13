@@ -22,6 +22,7 @@ After masking (target ball recognition):
 
 ## Product Design
 The Raspberry Pi and camera used as well as the projector and other related technology was encased in a wooden box with a 3D-printed box to hold the Raspberry Pi in place with a hole for the camera view. This box was attached to arms that could attach to a pool table.
+
 ![Demo photo](/README_images/demo_1.jpg)  
 
 ![Isometric View of Wooden Box](/README_images/box_isometric_view.jpg)
